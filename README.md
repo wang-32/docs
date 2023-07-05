@@ -1,2 +1,1 @@
-# docs
-笔记博客
+# Hello VuePress!
